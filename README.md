@@ -69,7 +69,7 @@ optional arguments:
 | 4x      | 31.69      |
 
 ### Result
-From left to right are ground truth, bicubic and ours
+From left to right, from top to bottom are ground truth, bicubic, A+, SRCNN, VDSR, DRCN, DRRN and ours
 <p>
   <img src='result/result.jpg' height='300' width='600'/>
 </p>
